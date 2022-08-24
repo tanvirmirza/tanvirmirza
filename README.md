@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mirza Tanvir</h1>
 <h3 align="center">A passionate App Developer and Programming Enthusiast from Bangladesh.</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/QDyD.gif" >
+<img align="right" alt="tanvirmirza" width="400" src="https://i.gifer.com/QDyD.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirmirza&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirmirza" /> </p>
 
